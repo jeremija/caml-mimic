@@ -12,4 +12,4 @@ MODEL_DIR = path.join(path.dirname(__file__), 'saved_models')
 
 DATA_DIR = path.join(path.dirname(__file__), 'mimicdata/')
 MIMIC_3_DIR = path.join(path.dirname(__file__), 'mimicdata/mimic3')
-MIMIC_2_DIR = path.join(path.diranem(__file__), 'mimicdata/mimic2')
+MIMIC_2_DIR = path.join(path.dirname(__file__), 'mimicdata/mimic2')
