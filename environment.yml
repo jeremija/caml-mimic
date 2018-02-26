@@ -21,7 +21,7 @@ dependencies:
   - entrypoints=0.2.3=py27hd680fb1_2
   - enum34=1.1.6=py27hf475452_1
   - functools32=3.2.3.2=py27h8ceab06_1
-  - gensim=2.3.0=np112py27_0
+  - gensim=3.3.0=py27h917ab60_0
   - html5lib=1.0.1=py27h5233db4_0
   - idna=2.6=py27hedea723_1
   - intel-openmp=2018.0.0=h8158457_8
@@ -41,15 +41,15 @@ dependencies:
   - libsodium=1.0.15=hd9e47c5_0
   - markupsafe=1.0=py27hd3c86fa_1
   - mistune=0.8.3=py27_0
-  - mkl=2017.0.4=h1fae6ae_0
+  - mkl=2018.0.1=hfbd8650_4
   - nbconvert=5.3.1=py27h6455e4c_0
   - nbformat=4.4.0=py27hddc86d0_0
   - ncurses=6.0=hd04f020_2
   - nltk=3.2.3=py27_0
   - notebook=5.0.0=py27h5f5981d_2
-  - numpy=1.12.1=py27_0
+  - numpy=1.14.1=py27h8a80b8c_1
   - openssl=1.0.2n=hdbc3d79_0
-  - pandas=0.20.1=np112py27_0
+  - pandas=0.22.0=py27h0a44026_0
   - pandoc=1.19.2.1=ha5e8f32_1
   - pandocfilters=1.4.2=py27hed78c4e_1
   - pathlib2=2.3.0=py27he09da1e_0
@@ -69,8 +69,8 @@ dependencies:
   - readline=7.0=hc1231fa_4
   - requests=2.18.4=py27h9b2b37c_1
   - scandir=1.7=py27h1de35cc_0
-  - scikit-learn=0.18.1=np112py27_1
-  - scipy=0.19.0=np112py27_0
+  - scikit-learn=0.19.1=py27h9788993_0
+  - scipy=1.0.0=py27h793f721_0
   - setuptools=38.5.1=py27_0
   - simplegeneric=0.8.1=py27_2
   - singledispatch=3.4.0.3=py27he22c18d_0
@@ -90,8 +90,8 @@ dependencies:
   - wheel=0.30.0=py27h677a027_1
   - zeromq=4.2.2=ha360ad0_2
   - zlib=1.2.11=hf3cbc9b_2
-  - pytorch=0.2.0=py27_4cu75
+  - pytorch=0.2.0=py27_3cu75
   - pip:
     - backports.ssl-match-hostname==3.5.0.1
-    - torch==0.2.0.post4
+    - torch==0.2.0.post3
 
